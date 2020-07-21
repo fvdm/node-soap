@@ -45,7 +45,7 @@
     "body-parser": "^1.15.2",
     "colors": "^1.1.2",
     "coveralls": "^2.11.6",
-    "diff": "^2.2.1",
+    "diff": "^4.0.2",
     "doctoc": "^1.0.0",
     "duplexer": "~0.1.1",
     "express": "^4.14.0",
